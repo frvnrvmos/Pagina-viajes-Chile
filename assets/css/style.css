@@ -44,4 +44,28 @@ body {
   margin-bottom: 15px;
 }
 
+#destacados h2 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.card-destacado {
+  background-color: #0dcaf0;
+  color: #fff;
+  border: #fff;
+}
+
+.card-destacado img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-destacado .card-title{
+  font-size: 16px;
+}
+
+.card-destacado .card-text {
+  font-size: 13px;
+}
+
 
