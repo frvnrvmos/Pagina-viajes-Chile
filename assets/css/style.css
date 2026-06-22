@@ -1,0 +1,16 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar-brand {
+  font-weight: 500;
+}
+
+.navbar-brand i {
+  margin-right: 8px;
+}
